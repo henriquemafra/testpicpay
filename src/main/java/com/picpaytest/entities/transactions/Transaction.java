@@ -22,6 +22,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @EqualsAndHashCode(of="id")
 
+
 public class Transaction {
 
     @Id
